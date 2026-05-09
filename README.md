@@ -14,9 +14,11 @@
 
 ---
 
-## Deliverables
+# Deliverables
 
-Bash startup script file (see file: startup.sh)
+## Bash startup script
+
+see file: startup.sh
 
 ## Screenshot of
 
@@ -35,4 +37,4 @@ Rendered web page in browser
 
 ## A brief explanation of script logic
 
-See file startup.sh for brief explanation of script
+See file: startup.sh for brief explanation of script
