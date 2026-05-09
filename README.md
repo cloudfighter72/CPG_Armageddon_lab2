@@ -16,7 +16,7 @@
 
 ## Deliverables
 
-startup.sh file
+startup.sh file (see code)
 
 ## Screenshot of
 
