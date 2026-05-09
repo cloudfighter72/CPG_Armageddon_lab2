@@ -14,11 +14,9 @@
 
 ---
 
-# Deliverables
+## Deliverables
 
-## Bash startup script
-
-see file: startup.sh
+startup.sh file
 
 ## Screenshot of
 
