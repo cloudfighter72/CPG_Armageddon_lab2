@@ -37,8 +37,3 @@ Rendered web page in browser
 
 See file: startup.sh for brief explanation of script
 
----
-
-## Collaborator Repo Links
-
-- Vince - https://github.com/UriahVictorious/CPG_Armageddon_2026_Lab2.git
