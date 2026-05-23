@@ -39,8 +39,9 @@ See file: startup.sh for brief explanation of script
 
 ---
 
-## Collaborator Repo Links
+## Collaborators/Authors Repo Links
 
-- Vince - https://github.com/UriahVictorious/CPG_Armageddon_2026_Lab2.git
-- Tyler Tedson - https://github.com/jimmyjohns1900/lab2-cpg-ec2-and-html
-- Cassiem Davids - https://github.com/kazapes/CPG_Armageddon_lab2.git
+[**Vince**](https://github.com/UriahVictorious/CPG_Armageddon_2026_Lab2.git)
+[**Tyler Tedson**](https://github.com/jimmyjohns1900/lab2-cpg-ec2-and-html)
+[**Cassiem Davids**](https://github.com/kazapes/CPG_Armageddon_lab2.git)
+[**Mister_A**](https://github.com/Rastamonk01/cpg_lab2_armageddon.git)
