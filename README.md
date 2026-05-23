@@ -42,3 +42,4 @@ See file: startup.sh for brief explanation of script
 ## Collaborator Repo Links
 
 - Vince - https://github.com/UriahVictorious/CPG_Armageddon_2026_Lab2.git
+- Tyler Tedson - https://github.com/jimmyjohns1900/lab2-cpg-ec2-and-html
