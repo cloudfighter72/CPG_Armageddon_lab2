@@ -1,0 +1,32 @@
+Explanation of startup.sh EC2 Launch Script
+
+1. set -xe
+    - This sets the script to exit immediately when it encounters an error and display it's errors encountered.
+2. dnf update -y
+    - update the system with all required packages.
+
+3. # Install NGINX
+dnf install nginx -y
+    - Use the dnf package manager to install the nginx web server package.
+
+4. systemctl start nginx
+systemctl enable nginx
+    - Start and enable the nginx web server
+
+5. cat <<EOF > /usr/share/nginx/html/index.html
+<!DOCTYPE html>
+<html lang="en">
+
+---code snipped ---
+
+    - loads the index.html file that will load on the EC2 instance. This file includes all the text, images and format settings for the web page.
+
+6.  chmod 644 /usr/share/nginx/html/index.html
+    chmod 644 /usr/share/nginx/html/styles.css
+
+    - sets the permissions for the index.html and styles.css files to allow them to be accessed by the ec2.
+
+
+7. systemctl restart nginx
+
+    - restarts the nginx server.
