@@ -177,3 +177,4 @@ See file: startup.sh for brief explanation of script
 2. [**Tyler Tedson**](https://github.com/jimmyjohns1900/lab2-cpg-ec2-and-html)
 3. [**Cassiem Davids**](https://github.com/kazapes/CPG_Armageddon_lab2.git)
 4. [**Mister_A**](https://github.com/Rastamonk01/cpg_lab2_armageddon.git) = Alex
+5. [**Ernie**](https://github.com/cloudfighter72/CPG_Armageddon_lab2/tree/ernie) 
