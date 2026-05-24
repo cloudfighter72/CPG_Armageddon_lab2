@@ -1,0 +1,38 @@
+Lab 2 — EC2 Startup Script (User Data Automation)
+Objective
+This lab introduces Linux automation and cloud initialisation by writing a startup script that configures an EC2 instance to host a front-facing static website.
+You will use Bash scripting to automate server setup without manual intervention.
+
+Technical Requirements
+Environment
+    - AWS EC2 (Amazon Linux or Ubuntu)
+    - Script must be compatible with EC2 User Data
+    - No SSH configuration required for grading
+
+Startup Script Requirements3
+Your script must:
+    - Be written in Bash
+    - Execute automatically at instance launch
+    - Perform the following tasks:
+        1. Install a web server (Apache or Nginx)
+        2. Create an HTML page
+        3. Serve content publicly via HTTP
+
+Web Page Content Requirements
+The generated web page must include:
+    - Your name
+    - A background color or image
+    - At least one embedded image
+    - Three distinct content sections, such as:
+        - About Me
+        - Project Description
+        - Contact / Footer
+
+    HTML and CSS may be inline or separate files.
+
+Deliverables
+ - Bash startup script file (startup.sh)
+ - Screenshot of:
+    - Running EC2 instance
+    - Rendered web page in browser
+ - Brief explanation of script logic

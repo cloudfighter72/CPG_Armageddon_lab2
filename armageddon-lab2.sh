@@ -20,13 +20,13 @@ cat <<EOF > /var/www/html/index.html
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #e8f0fe; /* Background Color Requirement */
+            background-color: #f0f4f8; /* Background Color Requirement */
             margin: 0;
             padding: 0;
-            color: #1a3a5c;
+            color: #333;
         }
         header {
-            background-color: #1a56db;
+            background-color: #232f3e;
             color: white;
             padding: 2rem;
             text-align: center;
@@ -37,11 +37,7 @@ cat <<EOF > /var/www/html/index.html
             max-width: 800px;
             background: white;
             border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(26,86,219,0.15);
-            border-top: 3px solid #1a56db;
-        }
-        h2 {
-            color: #1a56db;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
         img {
             max-width: 100%;
@@ -52,8 +48,7 @@ cat <<EOF > /var/www/html/index.html
             text-align: center;
             padding: 20px;
             font-size: 1.2rem;
-            color: #1a56db;
-            background-color: #dbeafe;
+            color: #666;
         }
     </style>
 </head>
