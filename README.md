@@ -167,3 +167,13 @@ git status
 git commit -m "Add EC2 startup script and README for User Data automation lab"
 git push
 ```
+See file: startup.sh for brief explanation of script
+
+---
+
+## Collaborators/Authors Repo Links
+
+1. [**Vince**](https://github.com/UriahVictorious/CPG_Armageddon_2026_Lab2.git)
+2. [**Tyler Tedson**](https://github.com/jimmyjohns1900/lab2-cpg-ec2-and-html)
+3. [**Cassiem Davids**](https://github.com/kazapes/CPG_Armageddon_lab2.git)
+4. [**Mister_A**](https://github.com/Rastamonk01/cpg_lab2_armageddon.git) = Alex
